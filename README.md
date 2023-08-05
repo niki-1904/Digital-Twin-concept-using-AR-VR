@@ -1,6 +1,6 @@
 # Digital-Twin-concept-using-AR-VR
 
-
+Connecting VR with REST API: a Proof of concept for IoT Digital Twin
 
 - This is a live weather forecast ar/vr project using Unity. 
 - It takes the required data from an open weather api in Json format and displays it in the 3D room on a 3D wall. 
